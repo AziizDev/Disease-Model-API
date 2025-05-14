@@ -4,3 +4,4 @@ numpy
 opencv-python
 joblib
 scikit-learn
+multipart
